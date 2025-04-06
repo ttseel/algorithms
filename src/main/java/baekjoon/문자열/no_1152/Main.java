@@ -1,4 +1,4 @@
-package baekjun.문자열.no_1152;
+package baekjoon.문자열.no_1152;
 
 import java.util.*;
 
